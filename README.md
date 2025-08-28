@@ -1,8 +1,5 @@
 # Argentina Snowfall
 
-![Snowfall Infographic](infographics/snowfall_infographic1.png)
-![Infografía sobre nevadas](infographics/snowfall_infographic_español.png)
-
 ## English
 
 ### Description
