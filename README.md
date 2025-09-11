@@ -4,12 +4,11 @@
 
 ### Descripción
 
-Este repositorio contiene datasets y scripts (`.ipynb`) para analizar y visualizar algunas tendencias de nevadas en Argentina (1985--2025).
+Este repositorio contiene datasets y scripts para analizar y visualizar tendencias de nevadas en Argentina (1985--2025).
 
-Este proyecto lo inicié para armar una **infografía** que presenté al concurso [**Contar con Datos 2025**](https://udesa.edu.ar/contarcondatos) organizado por la [Universidad de San Andrés](https://udesa.edu.ar/) durante 2025.
+El objetivo del repositorio es compartir una **infografía** que presenté al concurso [**Contar con Datos 2025**](https://udesa.edu.ar/contarcondatos) organizado por la [Universidad de San Andrés](https://udesa.edu.ar/) durante 2025.
 
-El script asociado (.ipynb) genera los **visualizaciones individuales**, que luego **integré manualmente en una infografía con Inkscape**.
-
+El script asociado genera los **visualizaciones individuales**, que luego **integré manualmente en una infografía con Inkscape**. A continuación pueden ver una versión preliminar de la infografía.
 
 <p align="center">
   <img src="snowfall_infographic_español.png" alt="Snowfall Infographic" width="1000"/>
@@ -70,13 +69,11 @@ Todas disponibles en [Google Fonts](https://fonts.google.com).\
 
 ### Description
 
-This repository contains datasets and scripts (`.ipynb`) for analyzing and visualizing snowfall trends in Argentina (1985--2025).
+This repository contains datasets and a script for analyzing and visualizing snowfall trends in Argentina (1985--2025).
 
 I built the repository to produce an infographic which I submitted to [**Contar con Datos 2025**](https://udesa.edu.ar/contarcondatos) contest organized by [Universidad de San Andrés](https://udesa.edu.ar/) during 2025.
 
-The Python scripts (.ipynb) generate **individual visualization panels**. Later, I integreted these panels **into a full infographic using Inkscape**.
-
-Scripts and infographic are available in **English** version.
+The scripts generate **individual visualization**. I integreted these visualizations **into a full infographic using Inkscape**. Below you will find a preliminary version of the infographic.
 
 <p align="center">
   <img src="snowfall_infographic1.png" alt="Snowfall Infographic" width="1000"/>
