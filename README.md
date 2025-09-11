@@ -4,13 +4,12 @@
 
 ### Descripción
 
-Este repositorio contiene datasets y cuadernos Jupyter en Python (`.ipynb`) para analizar y visualizar las tendencias de nevadas en Argentina (1985--2025).
+Este repositorio contiene datasets y scripts (`.ipynb`) para analizar y visualizar algunas tendencias de nevadas en Argentina (1985--2025).
 
-El proyecto fue desarrollado para la producción de una **infografía** presentada al concurso **Contar con Datos 2025**.
+Este proyecto lo inicié para armar una **infografía** que presenté al concurso [**Contar con Datos 2025**](https://udesa.edu.ar/contarcondatos) organizado por la [Universidad de San Andrés](https://udesa.edu.ar/) durante 2025.
 
-El notebook (.ipynb) genera los **paneles individuales de visualización**, que luego los **integré manualmente en una infografía final usando Inkscape**.
+El script asociado (.ipynb) genera los **visualizaciones individuales**, que luego **integré manualmente en una infografía con Inkscape**.
 
-El script y la infografía está disponibles en una versión en **español**.
 
 <p align="center">
   <img src="snowfall_infographic_español.png" alt="Snowfall Infographic" width="1000"/>
@@ -41,37 +40,22 @@ Los datos crudos de ERA5 fueron posteriormente **curados y posprocesados** en el
 
 ### Visualizaciones
 
--   El código produce **paneles individuales**:
-    -   Series temporales\
-    -   Mapas\
-    -   Gráficos de waffle\
-    -   Gráficos de lollipop\
--   Los paneles son luego combinados en **infografías finales** (integradas en Inkscape).\
+-   El script produce cuatro **visualizaciones**:
+    -   Calendario de nevadas\
+    -   Altibajos\
+    -   Nieve en el territorio\
+    -   Variabilidad en las nevadas\
 
 ### Requerimientos
 
 -   Python 3.9+\
 -   Librerías principales: `pandas`, `matplotlib`, `geopandas`, `shapely`, `xarray`\
--   Para la integración final: [Inkscape](https://inkscape.org) (paso manual)
+-   Para la integración final: [Inkscape](https://inkscape.org)
 
 ### Tipografías
 
-Las visualizaciones utilizan tipografías de [Google Fonts](https://fonts.google.com).\
-- Asegurate de instalarlas localmente o enlazarlas en el notebook.\
-- *Roboto*, *Oswald*, *Intrument serif*, *Lato*, *Inter*, and *Montserrat*
-
-### Estructura del repositorio
-
-``` text
-argentina-snowfall/
-├── data/            # Datasets en Parquet
-├── notebooks/       # Notebooks Jupyter (.ipynb) en ENG y ESP
-├── figures/         # Paneles individuales (.png, .svg)
-├── infographics/    # Infografía final (PNG, PDF)
-├── README.md        # Documentación del proyecto
-├── LICENSE          # Licencia
-└── .gitignore        
-```
+En las visualizaciones use: *Roboto*, *Oswald*, *Intrument serif*, *Lato*, *Inter*, y *Montserrat*.
+Todas disponibles en [Google Fonts](https://fonts.google.com).\
 
 ### Licencia
 
@@ -86,9 +70,9 @@ argentina-snowfall/
 
 ### Description
 
-This repository contains datasets and Python Jupyter notebooks (`.ipynb`) for analyzing and visualizing snowfall trends in Argentina (1985--2025).
+This repository contains datasets and scripts (`.ipynb`) for analyzing and visualizing snowfall trends in Argentina (1985--2025).
 
-The project was developed to produce an infographic submitted to the **Contar con Datos 2025** contest.
+I built the repository to produce an infographic which I submitted to [**Contar con Datos 2025**](https://udesa.edu.ar/contarcondatos) contest organized by [Universidad de San Andrés](https://udesa.edu.ar/) during 2025.
 
 The Python scripts (.ipynb) generate **individual visualization panels**. Later, I integreted these panels **into a full infographic using Inkscape**.
 
