@@ -13,7 +13,7 @@ El notebook (.ipynb) genera los **paneles individuales de visualización**, que 
 El script y la infografía está disponibles en una versión en **español**.
 
 <p align="center">
-  <img src="snowfall_infographic_español.png" alt="Snowfall Infographic" width="600"/>
+  <img src="snowfall_infographic_español.png" alt="Snowfall Infographic" width="800"/>
 </p>
 
 ### Dataset
@@ -78,7 +78,7 @@ The Python scripts (.ipynb) generate **individual visualization panels**. Later,
 Scripts and infographic are available in **English** version.
 
 <p align="center">
-  <img src="snowfall_infographic1.png" alt="Snowfall Infographic" width="600"/>
+  <img src="snowfall_infographic1.png" alt="Snowfall Infographic" width="800"/>
 </p>
 
 ### Dataset
