@@ -24,7 +24,7 @@ El script y la infografía está disponibles en una versión en **español**.
 
 ### Disponibilidad de los datos
 
-Al conjunto de datos lo descargué de: [reanalysis ERA5]([https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels]).  
+Al conjunto de datos lo descargué de: [reanalysis ERA5](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels).  
 ERA5 provee estimaciones horarias de un gran número de variables atmosféricas, terrestres y oceánicas.
 
 Para este proyecto descargué datos de nevadas (snowfall) sobre el cuadrante correspondiente de Argentina  y para el período 1986–2025.  
@@ -106,7 +106,7 @@ Scripts and infographic are available in **English** version.
 
 ### Data Availability
 
-I downloaded the dataset from the [ERA5 reanalysis]([https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels]).  
+I downloaded the dataset from the [ERA5 reanalysis](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels).  
 ERA5 provides hourly estimates of a large number of atmospheric, land, and oceanic variables.
 
 For this project, I retrieved snowfall data over Argentina for the period 1986–2025.
