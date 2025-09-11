@@ -123,19 +123,6 @@ Visualizations rely on fonts from [Google Fonts](https://fonts.google.com).\
 - Make sure the fonts are installed locally or linked in the notebook.\
 - *Roboto*, *Oswald*, *Intrument serif*, *Lato*, *Inter*, and *Montserrat*
 
-### Repository structure
-
-``` text
-argentina-snowfall/
-├── data/            
-├── notebooks/       
-├── figures/         
-├── infographics/    
-├── README.md        
-├── LICENSE          
-└── .gitignore        
-```
-
 ### License
 
 -   **Code:** MIT License (see [LICENSE](LICENSE))\
