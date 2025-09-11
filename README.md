@@ -10,7 +10,11 @@ El proyecto fue desarrollado para la producción de una **infografía** presenta
 
 El notebook (.ipynb) genera los **paneles individuales de visualización**, que luego los **integré manualmente en una infografía final usando Inkscape**.
 
-El script y la infografía están disponibles en **español** e **inglés**.
+El script y la infografía está disponibles en una versión en **español**.
+
+<p align="center">
+  <img src="snowfall_infographic_español.png" alt="Snowfall Infographic" width="600"/>
+</p>
 
 ### Dataset
 
@@ -71,7 +75,11 @@ The project was developed to produce an infographic submitted to the **Contar co
 
 The Python scripts (.ipynb) generate **individual visualization panels**. Later, I integreted these panels **into a full infographic using Inkscape**.
 
-Scripts and infographic are available in **English** and **Spanish**.
+Scripts and infographic are available in **English** version.
+
+<p align="center">
+  <img src="snowfall_infographic1.png" alt="Snowfall Infographic" width="600"/>
+</p>
 
 ### Dataset
 
