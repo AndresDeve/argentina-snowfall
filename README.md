@@ -6,9 +6,9 @@
 
 Este repositorio contiene datasets y scripts para analizar y visualizar tendencias de nevadas en Argentina (1985--2025).
 
-El objetivo del repositorio es compartir una **infografía** que presenté al concurso [**Contar con Datos 2025**](https://udesa.edu.ar/contarcondatos) organizado por la [Universidad de San Andrés](https://udesa.edu.ar/) durante 2025.
+El objetivo del repositorio es explicar como generé las visualizaciones que luego integré en un producto final en forma de **infografía**. Presenté la infografía al concurso [**Contar con Datos 2025**](https://udesa.edu.ar/contarcondatos) organizado por la [Universidad de San Andrés](https://udesa.edu.ar/) durante 2025.
 
-El script asociado genera los **visualizaciones individuales**, que luego **integré manualmente en una infografía con Inkscape**. A continuación pueden ver una versión preliminar de la infografía.
+A continuación pueden ver una versión preliminar de la **infografía**.
 
 <p align="center">
   <img src="snowfall_infographic_español.png" alt="Snowfall Infographic" width="1000"/>
@@ -71,9 +71,9 @@ Todas disponibles en [Google Fonts](https://fonts.google.com).\
 
 This repository contains datasets and a script for analyzing and visualizing snowfall trends in Argentina (1985--2025).
 
-I built the repository to produce an infographic which I submitted to [**Contar con Datos 2025**](https://udesa.edu.ar/contarcondatos) contest organized by [Universidad de San Andrés](https://udesa.edu.ar/) during 2025.
+I built the repository to produce an **snowfall infographic** which I submitted to [**Contar con Datos 2025**](https://udesa.edu.ar/contarcondatos) contest organized by [Universidad de San Andrés](https://udesa.edu.ar/) during 2025.
 
-The scripts generate **individual visualization**. I integreted these visualizations **into a full infographic using Inkscape**. Below you will find a preliminary version of the infographic.
+Below you will find a preliminary version of the **snowfall infographic**.
 
 <p align="center">
   <img src="snowfall_infographic1.png" alt="Snowfall Infographic" width="1000"/>
