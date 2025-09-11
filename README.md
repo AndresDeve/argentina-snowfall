@@ -10,7 +10,7 @@ El proyecto fue desarrollado para la producción de una **infografía** presenta
 
 Los notebooks generan **paneles individuales de visualización**, que luego fueron **integrados manualmente en una infografía final usando Inkscape**.
 
-Las visualizaciones están disponibles en **español** e **inglés**.
+El script y la infografía están disponibles en **español** e **inglés**.
 
 ### Dataset
 
@@ -26,7 +26,6 @@ Las visualizaciones están disponibles en **español** e **inglés**.
     -   Gráficos de waffle\
     -   Gráficos de lollipop\
 -   Los paneles son luego combinados en **infografías finales** (integradas en Inkscape).\
--   Visualizaciones disponibles tanto en **español** como en **inglés**.
 
 ### Requerimientos
 
@@ -72,7 +71,7 @@ The project was developed to produce an infographic submitted to the **Contar co
 
 The Python scripts generate **individual visualization panels**. These panels were later **integrated into a full infographic using Inkscape**.
 
-Outputs are available in both **English** and **Spanish**.
+Scripts and infographic are available in **English** and **Spanish**.
 
 ### Dataset
 
@@ -88,7 +87,6 @@ Outputs are available in both **English** and **Spanish**.
     -   Waffle charts\
     -   Lollipop plots\
 -   Panels are then assembled into **final infographics** (done externally in Inkscape).\
--   Visualizations are available in both **English** and **Spanish**.
 
 ### Requirements
 
