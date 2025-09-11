@@ -8,7 +8,7 @@ Este repositorio contiene datasets y cuadernos Jupyter en Python (`.ipynb`) para
 
 El proyecto fue desarrollado para la producción de una **infografía** presentada al concurso **Contar con Datos 2025**.
 
-Los notebooks generan **paneles individuales de visualización**, que luego fueron **integrados manualmente en una infografía final usando Inkscape**.
+El notebook (.ipynb) genera los **paneles individuales de visualización**, que luego los **integré manualmente en una infografía final usando Inkscape**.
 
 El script y la infografía están disponibles en **español** e **inglés**.
 
@@ -69,7 +69,7 @@ This repository contains datasets and Python Jupyter notebooks (`.ipynb`) for an
 
 The project was developed to produce an infographic submitted to the **Contar con Datos 2025** contest.
 
-The Python scripts generate **individual visualization panels**. These panels were later **integrated into a full infographic using Inkscape**.
+The Python scripts (.ipynb) generate **individual visualization panels**. Later, I integreted these panels **into a full infographic using Inkscape**.
 
 Scripts and infographic are available in **English** and **Spanish**.
 
