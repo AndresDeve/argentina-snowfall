@@ -22,6 +22,16 @@ El script y la infografía está disponibles en una versión en **español**.
 -   **Contenido:** Estimaciones diarias e interanuales de acumulación de nieve en Argentina\
 -   **Fuente:** Derivados de datos de reanálisis climático (ERA5, ECMWF, Copernicus Climate Data Store)
 
+## Disponibilidad de los datos
+
+El conjunto de datos fue descargado originalmente de la [reanalización ERA5](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels) a través del *Copernicus Climate Data Store* (CDS).  
+ERA5 provee estimaciones horarias de un gran número de variables atmosféricas, terrestres y oceánicas.
+
+Para este proyecto se descargaron datos de nevadas sobre Argentina para el período 2006–2025 utilizando la API del CDS.  
+
+**Nota importante:**  
+Los datos crudos de ERA5 fueron posteriormente **curados y posprocesados** en el cuaderno de Jupyter (`snowfall_july_2006_2025_ARG-english.ipynb`) para filtrar la región de estudio, agregar valores y generar el conjunto final utilizado en los análisis y visualizaciones.
+
 ### Visualizaciones
 
 -   El código produce **paneles individuales**:
@@ -86,6 +96,16 @@ Scripts and infographic are available in **English** version.
 -   **Format:** Parquet (`.parquet`)\
 -   **Content:** Daily to interannual estimates of snowfall accumulation across Argentina\
 -   **Source:** Derived from reanalysis climate data (ERA5, ECMWF, Copernicus Climate Data Store)
+
+## Data Availability
+
+The dataset was originally downloaded from the [ERA5 reanalysis](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels) via the Copernicus Climate Data Store (CDS).  
+ERA5 provides hourly estimates of a large number of atmospheric, land, and oceanic variables.
+
+For this project, we retrieved snowfall data over Argentina for the period 2006–2025 using the CDS API.  
+
+**Important note:**  
+The raw ERA5 data was later **curated and post-processed** in the accompanying Jupyter notebook (`snowfall_july_2006_2025_ARG-english.ipynb`) to filter the study region, aggregate values, and generate the final dataset used for analysis and visualization.
 
 ### Visualizations
 
